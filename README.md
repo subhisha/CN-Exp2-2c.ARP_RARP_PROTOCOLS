@@ -77,6 +77,7 @@ while True:
 ## OUPUT -RARP
 ## Server.py
 <img width="1046" height="116" alt="image" src="https://github.com/user-attachments/assets/0953170d-004a-403e-8c98-63cfba7e015d" />
+
 ## Client.py
 <img width="1040" height="175" alt="image" src="https://github.com/user-attachments/assets/295cad96-c9a7-418e-a895-0022da420fd6" />
 
